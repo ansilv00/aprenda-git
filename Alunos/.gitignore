@@ -1,0 +1,13 @@
+# Ignore todos os arquivos de texto
+*.txt
+# Ignore Zip
+*.Zip
+#Ignore env
+*.env
+#Ignore bkp
+*.bkp
+#Ignore rar
+*.rar
+#Ignore bd
+*.bd
+
