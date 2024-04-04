@@ -13,7 +13,7 @@ Informatica para internet
 ## Projetos
 
 
-- [Meu Projeto](Link do GitHub) https://github.com/charlesedutec/aprenda-git
+- [Meu Projeto](Link do GitHub)
 ## Link do Perfil
 
 [Anna iris](link  github)
